@@ -1,0 +1,10 @@
+<resources>
+    <style name="CustomRatingBar" parent="Widget.AppCompat.RatingBar">
+        <item name="android:progressDrawable">@drawable/custom_rating</item>
+    </style>
+    <style name="CustomPreferenceStyle" parent="PreferenceThemeOverlay">
+        <item name="android:titleTextColor">@color/green_dark</item>
+        <item name="android:colorAccent">@color/green_dark</item>
+    </style>
+
+</resources>

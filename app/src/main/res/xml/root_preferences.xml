@@ -1,0 +1,38 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:theme="@style/CustomPreferenceStyle">
+
+    <PreferenceCategory app:title="화면 설정">
+
+        <ListPreference
+            app:defaultValue="@color/green_dark"
+            app:entries="@array/my_color"
+            app:entryValues="@array/my_color_values"
+            app:key="color"
+            app:title="검색 버튼 색상"
+            app:useSimpleSummaryProvider="true" />
+
+        <ListPreference
+            app:defaultValue="14.0f"
+            app:entries="@array/my_size"
+            app:entryValues="@array/my_size_values"
+            app:key="size"
+            app:title="식물 게시판 글씨 크기"
+            app:useSimpleSummaryProvider="true" />
+
+        <EditTextPreference
+            app:key="id"
+            app:title="식물 일지 제목"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="알림 설정">
+        <SwitchPreferenceCompat
+            app:key="notifications"
+            app:title="알림 받기"
+            app:defaultValue="false"
+            app:summary="알림을 받을지 여부를 설정합니다." />
+    </PreferenceCategory>
+
+</PreferenceScreen>

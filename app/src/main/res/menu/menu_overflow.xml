@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <!-- Other menu items -->
+    <item
+        android:id="@+id/menu_main_setting"
+        android:icon="@drawable/setting"
+        android:title="설정"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/item_info"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:title="수목원 웹사이트 방문" />
+    <item
+        android:id="@+id/item_map"
+        android:icon="@android:drawable/ic_dialog_map"
+        android:title="수목원 길찾기" />
+    <item
+        android:id="@+id/item_gallery"
+        android:icon="@android:drawable/ic_menu_gallery"
+        android:title="나의 갤러리" />
+    <item
+        android:id="@+id/item_call"
+        android:icon="@android:drawable/ic_menu_call"
+        android:title="수목원 전화걸기"/>
+    <item
+        android:id="@+id/item_mail"
+        android:icon="@android:drawable/ic_dialog_email"
+        android:title="수목원 메일 보내기" />
+    <item
+        android:id="@+id/item_exit"
+        android:icon="@android:drawable/ic_dialog_email"
+        android:title="앱 종료" />
+</menu>

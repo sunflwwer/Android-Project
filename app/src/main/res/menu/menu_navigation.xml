@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!-- 네비게이션 드로어 메뉴 항목 -->
+    <item
+        android:id="@+id/item_fragment"
+        android:icon="@android:drawable/ic_menu_slideshow"
+
+        android:title="컨텐츠 허브"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/item_board"
+        android:icon="@android:drawable/ic_menu_gallery"
+
+        android:title="식물 게시판"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/item_myplant"
+        android:icon="@android:drawable/ic_menu_edit"
+
+        android:title="나의 식물 일지"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/item_myplace"
+        android:icon="@android:drawable/ic_search_category_default"
+        android:title="약용 식물 검색"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/item_plantdict"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="보호 식물 도감"
+        app:showAsAction="never" />
+
+</menu>
