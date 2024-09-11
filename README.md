@@ -19,8 +19,8 @@
 
 |      박유정       |          김다빈         |       조소윤         |       정지민         |                                                                                                               
 | :------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | 
-|   <img width="160px" src="https://github.com/user-attachments/assets/e664eee2-7231-47d7-9c49-0950a1a6eca1" />    |                      <img width="160px" src="https://github.com/user-attachments/assets/e6222b60-85a0-4971-81c1-eaf7ab8b36a6" />    |                   <img width="160px" src="https://github.com/user-attachments/assets/889efc14-d2df-4fef-996b-8f263fedad92"/>   |<img width="160px" src="https://github.com/user-attachments/assets/8b631400-fd68-4b60-8e15-43398522105a"/>
-|                     
+|   <img width="160px" src="https://github.com/user-attachments/assets/e664eee2-7231-47d7-9c49-0950a1a6eca1" />    |                      <img width="160px" src="https://github.com/user-attachments/assets/e6222b60-85a0-4971-81c1-eaf7ab8b36a6" />    |                   <img width="160px" src="https://github.com/user-attachments/assets/889efc14-d2df-4fef-996b-8f263fedad92"/>   |<img width="160px" src="https://github.com/user-attachments/assets/8b631400-fd68-4b60-8e15-43398522105a"/> |
+
 |   [@qkrdbwjd](https://github.com/qkrdbwjd)   |    [@dalpaeng6](https://github.com/dalpaeng6)  | [@soyoon1](https://github.com/soyoon1)  | [@sunflwwer](https://github.com/sunflwwer)  |
 | 덕성여자대학교 컴퓨터공학과 3학년 (휴학) | 덕성여자대학교 컴퓨터공학과 3학년 | 덕성여자대학교 컴퓨터공학과 3학년 (휴학) | 덕성여자대학교 컴퓨터공학과 3학년 |
 
