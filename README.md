@@ -3,7 +3,6 @@
 <div align="center">
 <img width="329" alt="image" src="https://github.com/user-attachments/assets/5946505c-fd48-4d9b-9728-95b503fbf3f9"
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKiumi-ST&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
 </div>
 
 # Kiumi 키움이
