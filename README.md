@@ -8,7 +8,7 @@
 
 # 키움이 : 키오스크 배움이
 
-> **덕성여자대학교 개발 소모임 '코너' 팀 에스티(ST)** <br/>  **키오스크는 급속히 확대되어 어느덧 현대 생활 속 필수 요소로 자리 잡았습니다. 하지만 매장마다 전혀 다른 UI/UX를 제공해 많은 사용자가 혼란을 느끼고 있습니다. 사용자가 다양한 업체의 키오스크 인터페이스를 사전에 경험해 볼 수 있는 서비스를 제공하고자 합니다.** <br/> **개발기간: 2024.03 ~ 2024.10**
+> **덕성여자대학교 개발 소모임 '코너' 팀 에스티(ST)** <br/><br/>  **키오스크는 급속히 확대되어 어느덧 현대 생활 속 필수 요소로 자리 잡았습니다. 하지만 매장마다 전혀 다른 UI/UX를 제공해 많은 사용자가 혼란을 느끼고 있습니다. 사용자가 다양한 업체의 키오스크 인터페이스를 사전에 경험해 볼 수 있는 서비스를 제공하고자 합니다.** <br/><br/> **개발기간: 2024.03 ~ 2024.10**
 
 ## 배포 주소
 
@@ -16,7 +16,7 @@
 > **프론트 서버** : [https://www.duksung.ac.kr/main.do](https://www.duksung.ac.kr/main.do) <br>
 > **백엔드 서버** : [https://www.duksung.ac.kr/main.do](https://www.duksung.ac.kr/main.do) <br>
 
-## 웹개발팀 소개
+## 팀 소개
 
 |       박유정       |       김다빈        |      조소윤        |       정지민       |                                                                                                               
 | :-----------------: | :-----------------: | :----------------: | :----------------: | 
@@ -24,19 +24,3 @@
 | 프론트엔드 | 프론트엔드 | 풀스택 | 풀스택 | 
 | [@qkrdbwjd](https://github.com/qkrdbwjd) | [@dalpaeng6](https://github.com/dalpaeng6) | [@soyoon1](https://github.com/soyoon1) | [@sunflwwer](https://github.com/sunflwwer) |
 | 덕성여자대학교 <br> 컴퓨터공학과 3학년 (휴학) | 덕성여자대학교 <br> 컴퓨터공학과 3학년 | 덕성여자대학교 <br> 컴퓨터공학과 3학년 (휴학) | 덕성여자대학교 <br> 컴퓨터공학과 3학년 |
-
-
-
-## 팀 소개
-
-발룬테인은 온라인 코딩 교육 봉사를 하는 단체입니다. 기존에 소프트웨어학과에서 월드프렌즈 ICT 봉사단이라는 개발도상국에서 약 학 달 간 코딩 교육 봉사를 하는 활동이 있었는데, 봉사가 일회성으로 끝나는 점에 아쉬움을 느껴 지속적인 봉사를 하고자 만들어졌습니다. 발룬테인에서는 스크래치, 파이썬 등 프로그래밍 언어에 관한 강의를 제공하고, 질의응답과 라이브 세션을 통해 한국 학생과 외국 학생 간에 소통이 이루어집니다.
-
-#### Voluntain will share the knowledge of programming.
-You can take easy-to-understand lectures created by our team, including Scratch and Python. Also, improve your understanding and application skills of programming with exercise questions in the lecture videos.
-
-#### Voluntain's website will give you a learning-friendly environment.
-
-Our website supports the following component.
-1. Various online lectures with detailed descriptions and exercise questions.
-2. Q&A section to ask questions freely.
-3. Function to check the lecture you watched recently.
