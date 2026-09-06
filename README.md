@@ -40,5 +40,4 @@
 
 ## 🔗 참고 링크
 
-- [GitHub](https://github.com/sunflwwer/Android-Project)
 - [프로젝트 노션](https://app.notion.com/p/Plant-it-1814ceab4f8280fcadecf152fac1e19f?source=copy_link)
